@@ -79,5 +79,4 @@ $(function () {
   // displays current day and date
   var today = dayjs().format('dddd, MMMM D');
   $('#currentDay').text(today);
-};
-);
+});
